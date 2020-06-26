@@ -72,7 +72,7 @@ describe('A suite',function(){
 		// element(by.id('results')).getText().then(function(text){
 		// 	console.log(text);
 		// });
-	console.log();
+	console.log('1');
 
 		
 
